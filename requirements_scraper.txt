@@ -1,0 +1,11 @@
+beautifulsoup4
+loguru
+numpy
+pandas
+psycopg2-binary
+requests
+scikit-learn
+spacy
+sqlalchemy
+torch
+tqdm
